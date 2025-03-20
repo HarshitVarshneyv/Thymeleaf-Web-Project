@@ -1,10 +1,15 @@
 
 
-📚 Project Name – Spring Boot & Thymeleaf Web Application
+📚 Project Name – Women security and Empowerment Web Application.
 
 
 🚀 Overview
 This is a Spring Boot web application built using Thymeleaf as the templating engine. The project demonstrates a well-structured, efficient, and user-friendly web platform with dynamic content rendering, form handling, and backend integration.
+Let the development of a comprehensive security platform for
+smart India Hacathons, including feature such as SOS, voice
+and video recording, developing anonymous system and
+scheme management. Providing the details of emergency
+numbers and providing the live location sending facility
 
 
 🔹 Features
